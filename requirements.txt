@@ -1,0 +1,13 @@
+torch
+transformers
+peft
+trl
+accelerate
+bitsandbytes
+unsloth
+pypdf
+datasets
+pandas
+scipy
+sentencepiece
+protobuf
